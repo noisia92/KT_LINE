@@ -4,6 +4,7 @@ import numpy as np
 class Node():
 
     """A node class for A* Pathfinding"""
+    """2025.01.22일 깃허브테스트용으로 약간수정"""
 
     def __init__(self, parent=None, position=None,facility=None,location=None ):
 
